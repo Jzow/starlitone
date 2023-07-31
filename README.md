@@ -29,6 +29,6 @@ Licensed under either of
  
 ## Contribution
 
-So far, this warehouse is only a preliminary beginning, and I will continue to improve it through the knowledge I have learned. If you have any interests and ideas, please submit to PR or [contact me](jameszow@163.com).
+So far, this repo is only a preliminary beginning, and I will continue to improve it through the knowledge I have learned. If you have any interests and ideas, please submit to PR or contact jameszow@163.com.
 
 We looking for various contributions!
