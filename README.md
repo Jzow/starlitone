@@ -20,3 +20,17 @@ This repo is used to publicly showcase and research how I can create an intellig
    Compared with these two languages, I consider the safety of the mechanical part, and choose Rust is the best choice.
 5. Make a simple object recognition model, I will annotate some data, train this model, and deploy it for testing.
 6. Identified data is transmitted to Rust Lib through JNI, Use the craft provided by Rust to interact with the robotic arm and control it
+
+## License
+
+Licensed under either of
+
+ * [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0)
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsummer-os%2Fsummer-mybatis.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsummer-os%2Fsummer-mybatis?ref=badge_large)
+ 
+## Contribution
+
+So far, this warehouse is only a preliminary beginning, and I will continue to improve it through the knowledge I have learned. If you have any interests and ideas, please submit to PR or [contact me](jameszow@163.com).
+
+We looking for various contributions!
