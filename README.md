@@ -25,9 +25,7 @@ This repo is used to publicly showcase and research how I can create an intellig
 
 Licensed under either of
 
- * [MIT License]([http://www.apache.org/licenses/LICENSE-2.0](https://github.com/Jzow/starlat/blob/master/LICENSE))
-
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsummer-os%2Fsummer-mybatis.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsummer-os%2Fsummer-mybatis?ref=badge_large)
+ * [MIT License](https://github.com/Jzow/starlat/blob/master/LICENSE-MIT)
  
 ## Contribution
 
