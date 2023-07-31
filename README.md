@@ -9,8 +9,11 @@ This repo is used to publicly showcase and research how I can create an intellig
 2. Find a suitable development board for the robotic arm, currently I plan to use Raspberry pie, Jetson is too expensive for me.
 3. Build the development environment on the development board.
 
-   **Note:** I plan to use Java as the computer vision, ([DJL] and [TensorFlow]) is my preferred framework. and then I plan to use the Rust language for the embedded part
-   [DJL]: https://github.com/rust-embedded/wg
+   **Note:** I plan to use Java as the computer vision, ([DJL] and [TensorFlow]) is my preferred framework. and then I plan to use the Rust language for the [embedded] part
+   
+   [DJL]: https://github.com/deepjavalibrary/djl
+   [TensorFlow]: https://github.com/tensorflow
+   [embedded]: https://github.com/rust-embedded
    
    the mechanical Motion planning part (I don't think much about C++ and C language) because I have not been exposed to it before.
    
