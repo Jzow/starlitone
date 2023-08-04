@@ -1,4 +1,4 @@
-# Star Latitude Robot
+# Engelberger
 Intelligent robot core (experimental phase), Mechanical design, CV.
 
 ## Description
