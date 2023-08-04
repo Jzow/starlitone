@@ -6,7 +6,7 @@ First generation CV (Computer Vision) intelligent Robot
 This repo is used to publicly showcase and research how I can create an intelligent robot myself, and it includes the following features:
 
 1. Design the robotic arm, including drawing information.
-2. Find a suitable development board for the robotic arm, currently I plan to use Raspberry pie, Jetson is too expensive for me.
+2. Find a suitable development board for the robotic arm, currently I plan to use Jetson.
 3. Build the development environment on the development board.
 
    **Note:** I plan to use Java as the computer vision, [TensorFlow] is my preferred framework. and then I plan to use the Rust language for the [embedded] part
