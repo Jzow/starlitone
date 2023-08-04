@@ -1,5 +1,5 @@
-# starlit
-Intelligent robot core (experimental phase), Mechanical design, CV.
+# starlitⅠ
+First generation CV (Computer Vision) intelligent Robot
 
 ## Description
 
