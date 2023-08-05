@@ -1,4 +1,4 @@
-package wansen.ai.tensors;
+package com.wansenai.tensors;
 
 import org.tensorflow.ndarray.IntNdArray;
 import org.tensorflow.ndarray.NdArrays;
