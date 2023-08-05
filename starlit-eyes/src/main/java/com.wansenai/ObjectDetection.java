@@ -142,9 +142,9 @@ public class ObjectDetection {
             throw new IllegalArgumentException("Exactly 2 parameters required !");
         }
         //my output image
-        String outputImagePath = params[1];
+        String outputImagePath = "models/outputimage/";
         //my test image
-        String imagePath = params[0];
+        String imagePath = "models/other/";
         // get path to model folder
         String modelPath = "models/faster_rcnn_inception_resnet_v2_1024x1024_1";
         // load saved model

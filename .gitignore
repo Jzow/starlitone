@@ -19,6 +19,7 @@
 *.zip
 *.tar.gz
 *.rar
+*.iml
 
 */target
 
@@ -26,4 +27,4 @@
 hs_err_pid*
 replay_pid*
 
-starlit-eyes/src/main/java/com/wansenai/models
+starlit-eyes/src/main/java/resources
