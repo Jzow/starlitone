@@ -13,6 +13,6 @@ mod tests {
     }
 }
 
-pub fn main() -> {
-    
+fn main(){
+    println!("test");
 }
