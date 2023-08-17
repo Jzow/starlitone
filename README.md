@@ -1,4 +1,4 @@
-# starlit Ⅰ
+# starlit one
 First generation CV (Computer Vision) intelligent Robot
 
 ## Description
